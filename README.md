@@ -1,5 +1,3 @@
-# GIT inicio - Versionamento
+# GIT Course
 
-# GIT Modificação
-
-# Salvando modificações no GIT
+## Salvando alterações
